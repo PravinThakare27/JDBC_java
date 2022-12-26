@@ -1,3 +1,3 @@
 module JdbcPractice {
-	requires java.sql;
+	requires java.sql;;
 }
